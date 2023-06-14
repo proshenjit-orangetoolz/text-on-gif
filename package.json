@@ -1,0 +1,24 @@
+{
+  "name": "gifencode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.1",
+    "get-pixels": "^3.3.3",
+    "gif-encoder-2": "^1.0.5",
+    "gif-frames": "^1.0.1",
+    "gifencoder": "^2.0.1",
+    "gifwrap": "^0.10.1",
+    "nodemon": "^2.0.22",
+    "text-on-gif": "^2.0.13"
+  }
+}
